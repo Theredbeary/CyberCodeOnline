@@ -1,28 +1,28 @@
-## Gangs
-Gangs are a great way to join forces with your friends.  Members gain the ability to access gang headquarters, dungeons, and chat. Gangs can be created and joined once you're level 3.  Creating a gang costs 50,000BTC and then has a weekly upkeep fee of resources and BTC.  
+## Geng
+Geng adalah cara yang terbaik untuk bergabung bersama dengan teman-teman Anda. Anggota geng akan mendapatkan kemampuan untuk mengakses markas geng, rubanah, dan chatting. Geng dapat dibuat dan bergabung setelah Anda mencapai level 3. Membuat geng akan membutuhkan biaya sebesar 50.000BTC dan juga memiliki biaya pemeliharaan sumber daya dan BTC mingguan.
 
-## Gang HQ
-The gang headquarters show your gang level, necessary upkeep, amount of members, and control over Shangri-La.  It also has new AFK tasks and an automatic recycler.  
+## Markas Geng
+Markas geng menunjukkan tingkat geng Anda, pemeliharaan yang diperlukan, jumlah anggota, dan jumlah kontrol atas Shangri-La. Ini juga memiliki tugas AFK baru dan pendaur ulang otomatis. 
 
-Gang level impacts how many members can be in a gang.  To level up, collect gang Exp with the AFK tasks 'Gather Gang Resource' and 'Decrypt Memory Shard'.  There is a leaderboard for gangs, ranked by level.
+Tingkatan geng dipengaruhi oleh berapa banyak anggota yang dapat menjadi anggota geng. Untuk naik level, kumpulkan Exp geng dengan tugas AFK 'Gather Gang Resource' dan 'Decrypt Memory Shard'. Ada papan peringkat untuk geng, diberi peringkat berdasarkan level. 
 
-There's a weekly upkeep due for all gangs. If the upkeep quota isn't met, the gang will be automatically disbanded.  Upkeep amounts are based on the number of members the gang has -- so the more members there are, the more resources and BitCoin are needed.  Minimize the amount of inactive players in your gang to keep upkeep goals lower.
+Ada juga pemeliharaan mingguan untuk semua geng. Jika kuota pemeliharaan tidak terpenuhi, maka geng tersebut secara otomatis bubar. Jumlah pemeliharaan didasarkan pada jumlah anggota yang dimiliki geng -- semakin banyak anggota, semakin banyak pula sumber daya dan BitCoin yang dibutuhkan. Untuk itu, kurangilah jumlah pemain yang tidak aktif di dalam geng Anda dengan tujuan mengurangi target biaya pemeliharaan.
 
-Occupation gives gangs control over different areas of Shangri-La.  If a gang is in the top two gangs on the Occupation Leaderboard, those members have access to a task called 'Collect Protection Fees'.  Control is gained by performing the 'Reinforce Occupation at Shangri-La' task, which consumes one gang supply crate.  It is recommended to discuss with your gang whether you want to gather occupation points or not.
+Pendudukan akan memberikan kontrol geng atas berbagai daerah Shangri-La. Jika sebuah geng berada di dua geng teratas di Papan Peringkat Pendudukan, maka anggota geng tersebut akan memiliki akses ke tugas yang disebut 'Collect Protection Fees'. Kontrol diperoleh dengan melakukan tugas 'Reinforce Occupation at Shangri-La', yang menghabiskan satu peti suplai geng. Itu tergantung kepada anggota geng Anda apakah Anda ingin mengumpulkan poin pendudukan atau tidak. 
 
-The automatic recycler will break down various items like med tech or caches into tech scrap. This can be an efficient way to create tech scrap.  Each item that's being recycled has a different timer and tech scrap payout, so be sure to consider the return on tech scrap and time.  
+Pendaur ulang otomatis dapat menghancurkan berbagai item seperti teknologi medis atau cache yang kemudian menjadi kepingan teknologi. Cara ini bisa menjadi cara yang efisien untuk membuat kepingan teknologi. Setiap item yang didaur ulang akan memiliki pengatur waktu dan pembayaran memo teknologi yang berbeda, jadi pastikan untuk mempertimbangkan pengubahan kepingan teknologi dan waktu pembuatan. 
 
-The final AFK task available to gang members is 'Hack SL Data Fortress'.  This task uses Protocal Breach Shards to make progress on the SL-Data Fortress Breach.  Total progress can be seen in the Quest tab.  When a Breach has been completed, a global buff will go into effect.  
+Tugas AFK terakhir yang tersedia untuk para anggota geng adalah 'Hack SL Data Fortress'. Tugas ini menggunakan Pecahan Pelanggaran Protokol untuk membuat progres pada Pelanggaran Benteng SL-Data. Progres total bisa dilihat di tab Quest. Ketika Pelanggaran telah selesai, akan muncul buff global acak yang akan berlaku.
 
-## Gang Dungeons
-Gang dungeon consumes a Gang Invasion Order Transmitter when being created.  After the dungeon has been created, anyone in the gang can join, regardless of their level. Enemies are 4-5x stronger than regular enemies and give 2x the exp.  Bosses are guaranteed to drop a Rare Locked Container, Rare equipment, and some Gang Supply Crates.
+## Rubanah Geng
+Rubanah Geng akan membutuhkan Pemancar Perintah Invasi Gang (GIOT) saat dibuat. Setelah Rubanah dibuat, siapa pun yang berada di dalam geng dapat bergabung ke Rubanah, terlepas dari level mereka. Musuh di Rubanah ini 4-5x jauh lebih kuat dari musuh biasa dan memberikan 2x lipat exp. Boss dijamin akan menjatuhkan Rare Locked Container, Rare Equipment, dan beberapa Kotak Suplai Geng.
 
-As Gang Leader, you will have 3 additional options when visiting one of your gang members' profiles:
- - [KICK] - you can kick the gang member from the gang;
- - [PERMISSIONS] - here you can grant permissions to the gang member:
-   - Invite - it allows the gang member to invite other players to the gang;
-   - Kick  - it allows the gang member to kick other gang members;
-   - Manage - it allows the gang member to add or remove other gang members' permissions.
- - [TRANSFER LEADERSHIP] - you can set another gang member as the leader in case you don't want to be the leader anymore or want to leave the gang.
+Sebagai Ketua Geng, Anda akan memiliki 3 opsi tambahan saat mengunjungi salah satu profil anggota geng Anda: 
+ - [MENGELUARKAN] - Anda dapat mengeluarkan anggota geng dari geng; 
+ - [IZIN] - di sini Anda dapat memberikan izin kepada anggota geng;
+   - Undang - memungkinkan anggota geng mengundang pemain lain ke geng kamu; 
+   - Mengeluarkan - memungkinkan anggota geng untuk mengeluarkan anggota geng lainnya; 
+   - Mengatur - memungkinkan anggota geng untuk menambah atau menghapus izin anggota geng lainnya.
+ - [BERGANTI KEPEMIMPINAN] - Anda dapat menetapkan anggota geng lain sebagai pemimpin jika Anda tidak ingin menjadi pemimpin lagi atau ingin meninggalkan geng.
 
-Also as the Leader, in the Gang chat, if you click on the numbers of players in the gang on the top right, you will be able to [DELETE GANG] there.
+Juga sebagai Ketua Geng, dalam obrolan Geng, jika Anda mengklik jumlah anggota di geng di kanan atas, Anda akan dapat [HAPUS GENG] di sana.
