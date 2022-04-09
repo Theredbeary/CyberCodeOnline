@@ -284,6 +284,7 @@ spyd3r
 [K4LM3D](https://github.com/mksalada)
 [Wootles](https://github.com/Wootles)
 [Manz](https://github.com/manztellen)
+[Theredbear](https://github.com/Theredbeary) 
 
 ## Security Bug Reporters
 [0xF61](https://github.com/0xF61)
